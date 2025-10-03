@@ -1,10 +1,12 @@
 ---
 title: "Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny"
-author: "Jesica Formoso, Andrea Gomez Vargas, María Cristina Nanton, Betsabé Cohen, Virginia García Alonso, Ariana Bardauil"
+author: "R-Ladies Buenos Aires & R in Buenos Aires User Group"
 format: html
 ---
 
-Have you ever wanted to read Mastering Shiny but kept postponing it for “when things calm down”? So did we! At [R-Ladies Buenos Aires]() and [R en Buenos Aires](), many of us had Mastering Shiny sitting on our virtual shelves, always waiting for the right moment. After months (okay, maybe years) of good intentions and no progress, we realized we needed a push, and that push came from the power of community. 
+Have you ever wanted to read Mastering Shiny but kept postponing it for “when things calm down”? So did we! At [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and [R en Buenos Aires](https://renbaires.github.io/), many of us had Mastering Shiny sitting on our virtual shelves, always waiting for the right moment. After months (okay, maybe years) of good intentions and no progress, we realized we needed a push, and that push came from the power of community. 
+
+
 
 
 ## From Solo Intentions to Collective Learning
@@ -15,14 +17,29 @@ Our goals were simple. We wanted to create a friendly, welcoming environment for
 
 ## How We Organized the Reading Club
 
+
+::: {.columns}
+::: {.column width="40%"}
+
+<br>
+
+
+![](img/shiny1.png){fig-align="center" width="90%" fig-cap="Virtual Meeting 9: Discussion of Chapters 14 of *Mastering Shiny*"} 
+
+![](img/shiny3.png){fig-align="center" width="90%" fig-cap="Virtual Meeting 9: Discussion of Chapters 14 of *Mastering Shiny*"} 
+
+:::
+
+::: {.column width="60%"}
+
 We grouped the book into 10 sessions, each one covering a few chapters and taking place every two weeks. While we initially dreamed of reading the whole book, we knew that a shorter, time-bound version was more realistic and sustainable for most participants.
-
-
-![](img/flyers-rainbow.png){fig-align="center" width="80%"}
 
 
 All sessions were held online, lasting between 60 and 90 minutes. Each one was led by a different person (or pair), who walked us through the content and exercises of the assigned chapters.
 There was no expectation of being an expert. In fact, we explicitly encouraged people with little or no prior Shiny experience to join and to lead (and they did!). The only guideline was to read the chapters, try the exercises, and come ready to share. Presenters would explain what they understood from the chapters, highlight key concepts, and guide us through the exercises. Then the magic happened: we’d collectively fill in the gaps, ask questions, offer alternatives, and learn from one another.
+
+:::
+:::
 
 Most presenters created slides or notebooks to guide their sessions (though this wasn’t mandatory). We collected all those materials in this [public GitHub repository](https://github.com/RLadies-BA/mastering-shiny), with a variety of formats and styles. We deliberately avoided imposing a specific format as we didn’t want technical barriers to stop anyone from sharing.
 Eventually, we plan to curate and organize the materials to make them easier to reuse, especially for Spanish-speaking learners. We believe there’s real added value in having community-built learning materials in Spanish.
@@ -31,6 +48,8 @@ Over time, participants started to share the Shiny apps they were building on th
 It was a space full of mutual support, curiosity, and honest learning.
 
 Although we recorded the sessions, we decided to make them accessible only to attendees. This was different from our chapters’ usual practice, but we wanted to keep the sessions informal, comfortable, and pressure-free — more like a study group than a workshop. This allowed everyone to feel safe sharing unfinished work, asking questions, and making mistakes. 
+
+![](img/shiny2.png){fig-align="center" width="90%" fig-cap="Summary of the Reading Club’s Last Meeting"}
 
 ## Reflections and Lessons Learned
 
@@ -76,3 +95,54 @@ One of the most rewarding parts of the reading club was hearing what participant
 
 This reading club wasn’t just about working through a technical book. It was about carving out time for learning, growing confidence, building apps (and community!), and showing that you don’t need to know everything to lead or participate. If you’ve also been meaning to read Mastering Shiny, maybe this is your sign to gather your group and start together. Because when we learn together, we go further and we have more fun along the way.
 
+
+
+### You can reach out to R-Ladies Buenos Aires & R in Buenos Aires through the following:
+
+::: {.columns}
+::: {.column width="30%"}
+
+![](https://avatars.githubusercontent.com/u/38664570?s=200&v=4){width=80% fig-align="center"}
+
+:::
+
+::: {.column width="70%"}
+
+- Linkedin: [https://www.linkedin.com/company/rladies-ba/](https://www.linkedin.com/company/rladies-ba/)
+
+- Instagram:[https://www.instagram.com/rladiesba/?hl=en](https://www.instagram.com/rladiesba/?hl=en)
+
+- X: [https://twitter.com/rladiesba?lang=en](https://twitter.com/rladiesba?lang=en)
+
+- Website: [https://rladiesba.netlify.app/](https://rladiesba.netlify.app/)
+
+:::
+:::
+
+
+::: {.columns}
+::: {.column width="30%"}
+
+![](https://renbaires.github.io/image/BA-1.png){width=70% fig-align="center"}
+
+:::
+
+::: {.column width="70%"}
+
+- Linkedin: <https://www.linkedin.com/company/r-en-buenos-aires>
+
+- Instagram: [https://www.instagram.com/renbuenosaires](https://www.instagram.com/renbuenosaires)
+
+- X: [https://x.com/renbaires](https://x.com/renbaires)
+
+- Website: <https://renbaires.github.io/>
+
+:::
+:::
+
+
+### How do I Build an R User Group?
+
+R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups organize, share information, and support each other worldwide. We have given grants over the past four years, encompassing over 76,000 members in over 90 user groups in 39 countries. We would like to include you! Cash grants and meetup.com accounts are awarded based on the intended use of the funds and the amount of money available to distribute.
+
+<https://r-consortium.org/all-projects/rugsprogram.html>
