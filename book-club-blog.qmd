@@ -2,13 +2,12 @@
 title: "Learning Shiny, Together: A Collaborative Reading Club Around Mastering Shiny in Buenos Aires"
 author: "R-Ladies Buenos Aires & R in Buenos Aires User Group"
 format: html
+embed-resources: true
 ---
 
 ![](img/portadashiny.png)
 
 Have you ever wanted to read Mastering Shiny but kept postponing it for “when things calm down”? So did we! At [R-Ladies Buenos Aires](https://rladiesba.netlify.app/) and [R en Buenos Aires](https://renbaires.github.io/), many of us had Mastering Shiny sitting on our virtual shelves, always waiting for the right moment. After months (okay, maybe years) of good intentions and no progress, we realized we needed a push, and that push came from the power of community. 
-
-
 
 
 ## From Solo Intentions to Collective Learning
